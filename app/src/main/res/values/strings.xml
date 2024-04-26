@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StudentRegistrationApp</string>
+    <string-array name="subjects_array">
+        <item>Mathematics</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Biology</item>
+        <item>History</item>
+    </string-array>
+</resources>
